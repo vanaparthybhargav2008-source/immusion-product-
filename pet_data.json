@@ -1,0 +1,12 @@
+{
+    "name": "Dumpster Pup",
+    "hunger": 43,
+    "happiness": 70,
+    "energy": 77,
+    "files_eaten": 0,
+    "poops_produced": 0,
+    "times_petted": 0,
+    "birth_time": "2026-06-12 05:28:08.954831",
+    "favorite_type": "Unknown",
+    "eaten_types": {}
+}
